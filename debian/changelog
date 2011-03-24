@@ -1,5 +1,5 @@
-python-xmlrunner (1.0.3+git201103162341-1) UNRELEASED; urgency=low
+python-xmlrunner (1.0.3+git201103162341-1) unstable; urgency=low
 
   * Initial release.
 
- -- Chris Lamb <lamby@debian.org>  Sat, 26 Feb 2011 23:08:44 +0000
+ -- Chris Lamb <lamby@debian.org>  Thu, 24 Mar 2011 17:34:09 +0000
