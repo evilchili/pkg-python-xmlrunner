@@ -1,6 +1,7 @@
 python-xmlrunner (1.2-1) UNRELEASED; urgency=low
 
   * New upstream release.
+  * Bump base version number in get-orig-source target.
 
  -- Chris Lamb <lamby@debian.org>  Mon, 28 Mar 2011 17:23:09 +0100
 
